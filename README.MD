@@ -2,7 +2,7 @@
 Ecoleta - É uma forma de conectar pessoas e empresas para o descarte de lixos recicláveis e não reciclaveis através de uma plataforma on-line 
 oferecendo os locais e os tipos de materiais a serem descartados.
 
-As empresas ao utilizar a plataforma podem:
+As empresas ao utilizarem a plataforma podem:
 
 - Cadastrar novos locais de coleta através do endereço;
 - Cadastrar novos locais de coleta informando os tipos de materiais a serem descartados;
@@ -10,7 +10,7 @@ As empresas ao utilizar a plataforma podem:
 - Consultar as demais empresas cadastradas e seus respectivos endereços;
 
 
-Os usuários ao utilizar a plataforma podem:
+Os usuários ao utilizarem a plataforma podem:
 
 - Pesquisar pontos de coleta pelo nome das cidades e Estados;
 - Ter acesso aos tipos de materiais que podem ser descartados e os respectivos locais;
