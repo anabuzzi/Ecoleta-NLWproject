@@ -1,5 +1,5 @@
 
-Ecoleta - É uma forma de conectar pessoas e empresas para o descarte de lixos recicláveis e não reciclaveis através de uma plataforma on-line 
+Ecoleta - É uma forma de conectar pessoas e empresas para o descarte de lixo reciclavel e não reciclavel através de uma plataforma on-line 
 oferecendo os locais e os tipos de materiais a serem descartados.
 
 As empresas ao utilizarem a plataforma podem:
