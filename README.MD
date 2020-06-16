@@ -1,4 +1,4 @@
-<br>
+<img src="https://i.ibb.co/F4JbGTt/Capturar1.png" alt="Ecoleta" border="0"></a>
 <br>
 📊 Sobre
 <br>
